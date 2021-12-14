@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>AOS-S01 Abandon HTTP-HTML</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="AOS-S01 Abandon HTTP-HTML.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="AOS-S01 Abandon HTTP-HTML.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="AOS_URL.dat" Filter="2" />
+    <FileEntry Name="image_id.dat" Filter="2" />
+    <FileEntry Name="combined_AOS-S01 Abandon HTTP-HTML.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="139430452440.idx" Filter="1" />
+    <FileEntry Name="13943045244_0HE.201.idx" Filter="1" />
+    <FileEntry Name="13943045244_4rs.741.idx" Filter="1" />
+    <FileEntry Name="13943045244_6Dn.889.idx" Filter="1" />
+    <FileEntry Name="13943045244_CJm.727.idx" Filter="1" />
+    <FileEntry Name="13943045244_dkc.447.idx" Filter="1" />
+    <FileEntry Name="13943045244_ft3.745.idx" Filter="1" />
+    <FileEntry Name="13943045244_HNe.207.idx" Filter="1" />
+    <FileEntry Name="13943045244_j5x.51.idx" Filter="1" />
+    <FileEntry Name="13943045244_MhM.867.idx" Filter="1" />
+    <FileEntry Name="13943045244_qda.667.idx" Filter="1" />
+    <FileEntry Name="13943045244_Qs5.293.idx" Filter="1" />
+    <FileEntry Name="13943045244_qSC.855.idx" Filter="1" />
+    <FileEntry Name="13943045244_sGO.133.idx" Filter="1" />
+    <FileEntry Name="13943045244_sI5.603.idx" Filter="1" />
+    <FileEntry Name="13943045244_Tkd.867.idx" Filter="1" />
+    <FileEntry Name="13943045244_UfF.153.idx" Filter="1" />
+    <FileEntry Name="13943045244_VIE.635.idx" Filter="1" />
+    <FileEntry Name="13943045244_vQM.243.idx" Filter="1" />
+    <FileEntry Name="31093410440.idx" Filter="1" />
+    <FileEntry Name="AOS-S01 Abandon HTTP-HTML.c.pickle" Filter="1" />
+    <FileEntry Name="AOS-S01 Abandon HTTP-HTML.ci" Filter="1" />
+    <FileEntry Name="AOS-S01 Abandon HTTP-HTML.prm.bak" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0Ux.51.log" Filter="1" />
+    <FileEntry Name="mdrv1mE.257.log" Filter="1" />
+    <FileEntry Name="mdrv2WX.347.log" Filter="1" />
+    <FileEntry Name="mdrv5aJ.137.log" Filter="1" />
+    <FileEntry Name="mdrvCuI.513.log" Filter="1" />
+    <FileEntry Name="mdrvEfG.735.log" Filter="1" />
+    <FileEntry Name="mdrvg4C.261.log" Filter="1" />
+    <FileEntry Name="mdrvgvI.503.log" Filter="1" />
+    <FileEntry Name="mdrvgxZ.923.log" Filter="1" />
+    <FileEntry Name="mdrvhZs.779.log" Filter="1" />
+    <FileEntry Name="mdrvKBK.119.log" Filter="1" />
+    <FileEntry Name="mdrvQ3G.555.log" Filter="1" />
+    <FileEntry Name="mdrvSBA.781.log" Filter="1" />
+    <FileEntry Name="mdrvuNQ.69.log" Filter="1" />
+    <FileEntry Name="mdrvWrZ.517.log" Filter="1" />
+    <FileEntry Name="mdrvYPV.735.log" Filter="1" />
+    <FileEntry Name="mdrvYYd.455.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="shunra.shunra" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
