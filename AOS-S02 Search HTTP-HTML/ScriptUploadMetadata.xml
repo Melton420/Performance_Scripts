@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>AOS-S02 Search HTTP-HTML</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="AOS-S02 Search HTTP-HTML.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="AOS-S02 Search HTTP-HTML.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="AOS_URL.dat" Filter="2" />
+    <FileEntry Name="combined_AOS-S02 Search HTTP-HTML.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="115663212440.idx" Filter="1" />
+    <FileEntry Name="11566321244_2yx.205.idx" Filter="1" />
+    <FileEntry Name="11566321244_EA7.877.idx" Filter="1" />
+    <FileEntry Name="11566321244_FmV.587.idx" Filter="1" />
+    <FileEntry Name="11566321244_qIo.579.idx" Filter="1" />
+    <FileEntry Name="11566321244_uoi.663.idx" Filter="1" />
+    <FileEntry Name="11566321244_Wa7.203.idx" Filter="1" />
+    <FileEntry Name="AOS-S02 Search HTTP-HTML.c.pickle" Filter="1" />
+    <FileEntry Name="AOS-S02 Search HTTP-HTML.ci" Filter="1" />
+    <FileEntry Name="AOS-S02 Search HTTP-HTML.prm.bak" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0mX.27.log" Filter="1" />
+    <FileEntry Name="mdrv0qE.739.log" Filter="1" />
+    <FileEntry Name="mdrv2cc.643.log" Filter="1" />
+    <FileEntry Name="mdrv58S.655.log" Filter="1" />
+    <FileEntry Name="mdrv9Nx.343.log" Filter="1" />
+    <FileEntry Name="mdrva74.109.log" Filter="1" />
+    <FileEntry Name="mdrvASs.241.log" Filter="1" />
+    <FileEntry Name="mdrvfT1.647.log" Filter="1" />
+    <FileEntry Name="mdrvIOc.615.log" Filter="1" />
+    <FileEntry Name="mdrvntj.71.log" Filter="1" />
+    <FileEntry Name="mdrvQ0a.907.log" Filter="1" />
+    <FileEntry Name="mdrvrBq.751.log" Filter="1" />
+    <FileEntry Name="mdrvtEG.743.log" Filter="1" />
+    <FileEntry Name="mdrvxU3.123.log" Filter="1" />
+    <FileEntry Name="mdrvyA7.229.log" Filter="1" />
+    <FileEntry Name="mdrvyjo.373.log" Filter="1" />
+    <FileEntry Name="mdrvZaY.397.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="shunra.shunra" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
